@@ -1,2 +1,2 @@
-# x
-test app
+# X
+Template repository for projects
